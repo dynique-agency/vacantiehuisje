@@ -363,7 +363,7 @@ a:focus-visible { border-radius: 4px; }
 .stat-item__number span { color: var(--gold); }
 .stat-item__label {
   font-size: .68rem; letter-spacing: .14em;
-  text-transform: uppercase; color: rgba(255,255,255,.42); font-weight: 400;
+  text-transform: uppercase; color: var(--white); font-weight: 400;
 }
 
 /* ===== SPLIT SECTIONS ===== */
